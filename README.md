@@ -6,7 +6,7 @@
 
 **A modern, full-stack warehouse management system for efficient order picking and inventory tracking**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-🚀%20View%20App-brightgreen?style=for-the-badge)](https://picklist-app.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-🚀%20View%20App-brightgreen?style=for-the-badge)](https://picklist-warehouse.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-⭐%20Star%20Repo-blue?style=for-the-badge&logo=github)](https://github.com/shibbu04/Picklist-App)
 
 </div>
@@ -28,7 +28,7 @@ The Warehouse Picklist App is a comprehensive solution designed to streamline wa
 
 ## 🚀 **Live Demo**
 
-🔗 **[View Live Application](https://picklist-app.vercel.app/)**
+🔗 **[View Live Application](https://picklist-warehouse.vercel.app/)**
 
 ### Demo Credentials
 ```
